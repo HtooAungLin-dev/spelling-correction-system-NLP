@@ -1,0 +1,6 @@
+{
+  "name": "Spelling Correction System",
+  "description": "An advanced NLP and AI-powered spelling, real-word misuse, and grammar correction system with interactive suggestions, dictionary search, and contextual diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
